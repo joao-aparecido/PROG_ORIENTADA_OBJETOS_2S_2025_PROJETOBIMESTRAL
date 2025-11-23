@@ -1,0 +1,7 @@
+com\example\vehicles\db\DatabaseConnection.class
+com\example\vehicles\dao\VehicleDAO.class
+com\example\vehicles\Main.class
+com\example\vehicles\service\VehicleService.class
+com\example\vehicles\model\Car.class
+com\example\vehicles\model\Motorcycle.class
+com\example\vehicles\model\Vehicle.class
