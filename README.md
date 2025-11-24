@@ -89,7 +89,8 @@ O Maven já está configurado para rodar o programa automaticamente com o plugin
 
 Basta rodar:
 
-mvn exec:java
+mvn clean package exec:java
+
 
 
 Se quiser compilar e executar de uma vez:
